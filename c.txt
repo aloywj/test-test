@@ -1,3 +1,3 @@
 branch-2 edit
 
-branch-b changes
+branch-c edit c
